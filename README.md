@@ -1,8 +1,8 @@
 # Capstone-Project-IBM-DataScience-Specialization
 IBM Data Science Professional Certificate Capstone project
 
-In my data science project, I employed a range of essential tools. Beginning with data collection, I gathered and preprocessed raw data from various sources. Utilizing Python's pandas library, I conducted exploratory data analysis to gain insights into the dataset's structure and characteristics. Leveraging scikit-learn, I performed feature engineering and selection, preparing the data for modeling. Employing a variety of machine learning algorithms, including Random Forest and Gradient Boosting, I trained predictive models, optimizing their hyperparameters with cross-validation. To enhance model performance, I employed techniques like Principal Component Analysis (PCA) for dimensionality reduction. I communicated my findings through data visualizations using Matplotlib and Seaborn, effectively conveying complex information to stakeholders.
 
+In the burgeoning commercial space era, companies like Virgin Galactic, Rocket Lab, Blue Origin, and notably SpaceX are revolutionizing space travel accessibility. SpaceX's achievements span launching spacecraft to the ISS, pioneering satellite internet via Starlink, and executing manned space missions. A critical factor behind SpaceX's success is cost-effectiveness attributed to reusable rockets; their Falcon 9 launches cost $62 million, in contrast to competitors' $165 million. To ascertain launch costs, the pivotal first stage recovery's outcome can be predicted using machine learning, obviating complex rocket science. As a data scientist at Space Y, an aspiring SpaceX rival, I'm tasked with gathering SpaceX insights, constructing informative dashboards, and training a predictive model for first stage reusability. Leveraging these data science tools, I'm steering Space Y's quest to establish a competitive foothold in the commercial space race.
 
 
 
