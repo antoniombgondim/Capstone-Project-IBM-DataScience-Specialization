@@ -1,7 +1,7 @@
 # Capstone-Project-IBM-DataScience-Specialization
 IBM Data Science Professional Certificate Capstone project
 
-See the PDF file ds-capstone-coursera.pdf for full PowerPoint a presentation
+See the PDF file ds-capstone-coursera.pdf for full PowerPoint presentation
 
 As a data scientist at Space Y, an aspiring SpaceX rival, I'm tasked with gathering SpaceX insights, constructing informative dashboards, and training a predictive model for first stage reusability. Leveraging these data science tools, I'm steering Space Y's quest to establish a competitive foothold in the commercial space race.
 
